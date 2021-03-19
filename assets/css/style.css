@@ -1,0 +1,54 @@
+/* ======== HOME ======== */
+.text-logo {
+	font-size: 1.5rem;
+	font-weight: 900;
+	color: #fff;
+	text-transform: uppercase;
+}
+
+.text-date {
+	font-size: 1.5rem;
+	color: #fff;
+	font-weight: 900;
+	padding: 10px 0px;
+	border-bottom: 5px solid #fff;
+}
+
+.btn-headline {
+	color: #ffc107;
+	background-color: white;
+	font-weight: bold;
+}
+
+.btn-headline:hover {
+	color: #fff;
+	background-color: #9c27b0;
+	font-weight: bold;
+}
+/* ======== HOME ======== */
+
+/* ======== DASHBOARD ======== */
+#profile {
+	font-size: 1.1rem;
+}
+
+#profile img {
+	height: 50px;
+}
+
+#profile .nama {
+	font-weight: bolder;
+	font-size: 1.3rem;
+}
+
+#profile span {
+	font-weight: bold;
+}
+
+.archive {
+	font-weight: bolder;
+	font-size: 1.1rem;
+}
+
+
+/* ======== DASHBOARD ======== */
